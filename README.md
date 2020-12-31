@@ -1,6 +1,6 @@
 # pet_ui
 
-Pet Shop UI in Flutter
+Pet Shop UI in Flutter with Customized Navigation Bar 
 
 ![pet2](https://user-images.githubusercontent.com/42887995/103404812-f39a4880-4b7a-11eb-9836-7b5d703f0912.png)
 ![pet3](https://user-images.githubusercontent.com/42887995/103404814-f5fca280-4b7a-11eb-8667-117c73bc63bc.png)
